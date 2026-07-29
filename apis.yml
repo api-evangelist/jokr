@@ -1,8 +1,13 @@
 aid: jokr
 name: jokr
-description: jokr is a company surfaced as a portfolio company of balderton-capital, ggv-capital, hv-capital
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: JOKR is an instant grocery and convenience delivery company headquartered in Luxembourg (JOKR
+  S.a.r.L) that operates an online supermarket delivering fresh products and local brands to consumers within
+  minutes or on a scheduled window through its mobile app. The service offers more than 10,000 products with
+  AI-powered personalized recommendations and competitive supermarket pricing, and reports roughly 3 million
+  app downloads and 5 million users. In Brazil it operates under the DAKI brand (soudaki.com), the leading
+  online supermarket in cities including Sao Paulo and Belo Horizonte. JOKR is a consumer-facing quick-commerce
+  business with no public developer API surface; this profile captures its identity and domain posture in the
+  API Evangelist network. Backed by Balderton Capital, GGV Capital, and HV Capital.
 url: https://raw.githubusercontent.com/api-evangelist/jokr/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,11 +17,31 @@ x-backed-by:
 - hv-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://static.wixstatic.com/media/aaf663_39c1f68df92c43cfa01b317f7d4a8e97~mv2.png
 tags:
 - Company
+- Grocery Delivery
+- Quick Commerce
+- Instant Delivery
+- Q-Commerce
+- E-Commerce
+- Retail
+- Consumer
+- Logistics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,5 +49,16 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/jokr-domain-security.yml
 - type: Website
   url: https://www.jokr.it/
+- type: TermsOfService
+  url: https://www.jokr.it/terms-n-conditions
+- type: PrivacyPolicy
+  url: https://www.jokr.it/privacy-policy
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
