@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/jokr/integrations
+- https://n8n.io/integrations/jokr/
+- https://composio.dev/toolkits/jokr
+- https://monid.ai/tools/jokr
+checked:
+- https://composio.dev/toolkits/jokr
+- https://monid.ai/tools/jokr
+- https://n8n.io/integrations/jokr/
+- https://zapier.com/apps/jokr/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
