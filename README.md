@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-jokr is a company surfaced as a portfolio company of balderton-capital, ggv-capital, hv-capital and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+JOKR is an instant grocery and convenience delivery company headquartered in Luxembourg (JOKR S.a.r.L) that operates an online supermarket delivering fresh products and local brands to consumers within minutes or on a scheduled window through its mobile app. The service offers more than 10,000 products with AI-powered personalized recommendations and competitive supermarket pricing, and reports roughly 3 million app downloads and 5 million users. In Brazil it operates under the DAKI brand (soudaki.com), the leading online supermarket in cities including Sao Paulo and Belo Horizonte. JOKR is a consumer-facing quick-commerce business with no public developer API surface; this profile captures its identity and domain posture in the API Evangelist network. Backed by Balderton Capital, GGV Capital, and HV Capital.
 
-Backed by: balderton-capital, ggv-capital, hv-capital — https://www.jokr.it/
+**Areas:** Company · Grocery Delivery · Quick Commerce · Instant Delivery · Q-Commerce · E-Commerce · Retail · Consumer · Logistics
+
+## jokr on APIs.io
+
+Everything profiled for jokr is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/jokr/](https://apis.io/providers/jokr/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Jokr Domain Security](https://apis.io/security/jokr/jokr-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.jokr.it/)
+- [Blog](https://jokr.com/blog/)
+- [Terms of service](https://www.jokr.it/terms-n-conditions)
+- [Privacy policy](https://www.jokr.it/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/jokr/](https://apis.io/providers/jokr/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for jokr: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/jokr/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
